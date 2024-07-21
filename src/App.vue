@@ -10,7 +10,7 @@ import InfoView from './views/InfoView.vue';
         <div class="col-span-1">
             <Navbar />
         </div>
-        <div class="col-start-2 col-span-3 bg-blue-100">
+        <div class="col-start-2 col-span-3  border-solid border-x-2 border-gray-400">
             <RouterView />
         </div>
         <div class="col-span-1">
